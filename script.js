@@ -9,4 +9,6 @@ document.addEventListener('DOMContentLoaded', function () {
       li.parentNode.removeChild(li);
     }
   });
+
+  //creating
 });
