@@ -50,4 +50,13 @@ body nav span:hover {
   background-color: rgba(165, 175, 175, 0.764);
   border-radius: 10px;
   transition: all 0.3s;
+}
+
+label {
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-transform: uppercase;
 }/*# sourceMappingURL=style.css.map */
